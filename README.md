@@ -1,4 +1,4 @@
-# shape-drawing
+# canvas-word-wrap
 
 [![Build Status](https://travis-ci.org/zzzze/canvas-word-wrap.svg?branch=master)](https://travis-ci.org/zzzze/canvas-word-wrap)
 [![Coverage Status](https://coveralls.io/repos/github/zzzze/canvas-word-wrap/badge.svg?branch=master)](https://coveralls.io/github/zzzze/canvas-word-wrap?branch=master)
